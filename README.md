@@ -6,3 +6,4 @@ This is a repository of single slides and a combined slide deck for PowerPoint, 
 Keep in mind this book is mostly geared toward software creation for internal and external customers, while I'm mostly interested in infrastructure projects or strategy for the IT Department as a whole.
 
 Started 08-01-2021
+Added an example deck 08-23-2021
